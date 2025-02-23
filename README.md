@@ -1,21 +1,5 @@
 # System design algorithms
 
-Algorithm you should know for preparing system design interview. For example, Learn Geohash / S2 Geometry algorithm for "How to design Uber like system?"
-
-#### Sponsor
-<h4>
-  <a href="https://osjobs.net/co/">
-    海外兔小班教学帮助你高效准备面试，学员大厂率超过 50%，入职不成功不收费。
-  </a>
-</h4>
-
-#### How to contribute
-The algorithm and its resources should:
-
-1. Can answer a system design question. For instance, [Building a complete Tweet index](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html) can answer "How to implement Twitter search" or "How to implement hashtag in Twitter".
-2. Free to read or watch.
-3. Text would be better than videos.
-
 #### Requirements
 - Know when to use ☑️
 - Know how it works ✅
